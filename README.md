@@ -3,9 +3,7 @@
 This Foundry VTT module adds the Artificer class for 13th Age to the Toolkit13 system. 
 
 ## Installation
-Enter the following URL: https://raw.githubusercontent.com/hairyscotsman2/13a-artificer/main/module.json
-
-Click `Install` and wait for the installation to complete.
+Download the artificer-for-13th-age.zip file and copy the contents into your Foundry VTT Modules folder.
 
 ## Compatibility
 
