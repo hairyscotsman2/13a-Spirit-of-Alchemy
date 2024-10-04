@@ -1,0 +1,81 @@
+{
+  "id": "artificer-for-13th-age",
+  "title": "Artificer for 13th Age",
+  "version": "1.0.3",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "archmage",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "This mod adds the Artificer class for the 13th Age RPG to Foundry VTT",
+  "authors": [
+    {
+      "name": "Douglas G A Murray",
+      "discord": "hairyscotsman2",
+      "flags": {}
+    }
+  ],
+  "manifest": "https://www.dropbox.com/scl/fi/guc46ru8ockpj6i8o775v/module.json?rlkey=ehgd6qxchmgvio7vuoohrbr35&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/010mtue61ok5qo72dkyko/artificer-for-13th-age.zip?rlkey=bx93swltxexa5mhnpk442f8bn&dl=1",
+  "scripts": [
+    "scripts/setup.js"
+  ],
+  "packs": [
+    {
+      "name": "artificer",
+      "label": "Artificer",
+      "path": "packs/artificer",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    },
+    {
+      "name": "classes-artificer",
+      "label": "classes-artificer",
+      "path": "packs/classes-artificer",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    },
+    {
+      "name": "rolltables-artificer",
+      "label": "rolltables-artificer",
+      "path": "packs/rolltables-artificer",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    },
+    {
+      "name": "pregens-artificer",
+      "label": "pregens-artificer",
+      "path": "packs/pregens-artificer",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    }
+  ]
+}
