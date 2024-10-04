@@ -23,8 +23,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/hairyscotsman2/13a-artificer/blob/main/module.json",
-  "download": "https://github.com/hairyscotsman2/13a-artificer/blob/main/artificer-for-13th-age.zip",
+  "manifest": "https://raw.githubusercontent.com/hairyscotsman2/13a-artificer/main/module.json",
+  "download": "https://raw.githubusercontent.com/hairyscotsman2/13a-artificer/main/artificer-for-13th-age.zip",
   "scripts": [
     "scripts/setup.js"
   ],
