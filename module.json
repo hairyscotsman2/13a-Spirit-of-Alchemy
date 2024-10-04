@@ -24,7 +24,7 @@
     }
   ],
   "manifest": "https://github.com/hairyscotsman2/13a-artificer/blob/main/module.json",
-  "download": "https://www.dropbox.com/scl/fi/010mtue61ok5qo72dkyko/artificer-for-13th-age.zip?rlkey=bx93swltxexa5mhnpk442f8bn&dl=1",
+  "download": "https://github.com/hairyscotsman2/13a-artificer/blob/main/artificer-for-13th-age.zip",
   "scripts": [
     "scripts/setup.js"
   ],
