@@ -1,10 +1,10 @@
 {
   "id": "artificer-for-13th-age",
   "title": "Artificer for 13th Age",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "relationships": {
     "systems": [
