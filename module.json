@@ -1,7 +1,7 @@
 {
   "id": "artificer-for-13th-age",
   "title": "Artificer for 13th Age",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -34,48 +34,55 @@
       "label": "Artificer",
       "path": "packs/artificer",
       "type": "Item",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "archmage",
-      "flags": {}
+      }
     },
     {
       "name": "classes-artificer",
       "label": "classes-artificer",
       "path": "packs/classes-artificer",
       "type": "JournalEntry",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "archmage",
-      "flags": {}
+      }
     },
     {
       "name": "rolltables-artificer",
       "label": "rolltables-artificer",
       "path": "packs/rolltables-artificer",
       "type": "RollTable",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "archmage",
-      "flags": {}
+      }
     },
     {
       "name": "pregens-artificer",
       "label": "pregens-artificer",
       "path": "packs/pregens-artificer",
       "type": "Actor",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "runes-atificer",
+      "label": "runes-atificer",
+      "path": "packs/runes-atificer",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "archmage",
-      "flags": {}
+      "system": "archmage"
     }
   ]
 }
