@@ -1,7 +1,7 @@
 {
-  "id": "artificer-for-13th-age",
-  "title": "Artificer for 13th Age",
-  "version": "1.0.8",
+  "id": "spirit-of-alchemy-for-13th-age",
+  "title": "Spirit of Alchemy for 13th Age",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -15,10 +15,11 @@
       }
     ]
   },
-  "description": "This mod adds the Artificer class for the 13th Age RPG to Foundry VTT",
+  "description": "Artificer, Dragonthane, Emotive and Shaman classes for 13th Age.",
   "authors": [
     {
       "name": "Douglas G A Murray",
+      "url": "spiritofalchemy.uk",
       "discord": "hairyscotsman2",
       "flags": {}
     }
@@ -41,8 +42,30 @@
       }
     },
     {
+      "name": "emotive",
+      "label": "Emotive",
+      "path": "packs/emotive",
+      "type": "Item",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "shaman",
+      "label": "Shaman",
+      "path": "packs/shaman",
+      "type": "Item",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "classes-artificer",
-      "label": "classes-artificer",
+      "label": "Classes-Artificer",
       "path": "packs/classes-artificer",
       "type": "JournalEntry",
       "system": "archmage",
@@ -52,9 +75,31 @@
       }
     },
     {
-      "name": "rolltables-artificer",
-      "label": "rolltables-artificer",
-      "path": "packs/rolltables-artificer",
+      "name": "classes-emotive",
+      "label": "Classes-Emotive",
+      "path": "packs/classes-emotive",
+      "type": "JournalEntry",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes-shaman",
+      "label": "Classes-Shaman",
+      "path": "packs/classes-shaman",
+      "type": "JournalEntry",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "roll-tables-spirit-of-alchemy",
+      "label": "Roll Tables-Spirit of Alchemy",
+      "path": "packs/roll-tables-spirit-of-alchemy",
       "type": "RollTable",
       "system": "archmage",
       "ownership": {
@@ -63,9 +108,9 @@
       }
     },
     {
-      "name": "pregens-artificer",
-      "label": "pregens-artificer",
-      "path": "packs/pregens-artificer",
+      "name": "actors-spirit-of-alchemy",
+      "label": "Actors-Spirit of Alchemy",
+      "path": "packs/actors-spirit-of-alchemy",
       "type": "Actor",
       "system": "archmage",
       "ownership": {
@@ -74,9 +119,9 @@
       }
     },
     {
-      "name": "runes-atificer",
-      "label": "runes-atificer",
-      "path": "packs/runes-atificer",
+      "name": "items-spirit-of-alchemy",
+      "label": "Items-Spirit of Alchemy",
+      "path": "packs/items-spirit-of-alchemy",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
