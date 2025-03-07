@@ -26,8 +26,7 @@
   ],
   "manifest": "https://raw.githubusercontent.com/hairyscotsman2/13a-spirit-of-alchemy/main/module.json",
   "download": "https://raw.githubusercontent.com/hairyscotsman2/13a-spirit-of-alchemy/main/spirit-of-alchemy-for-13th-age.zip",
-  "scripts": [
-    "scripts/setup.js"
+  "scripts": "https://raw.githubusercontent.com/hairyscotsman2/13a-Spirit-of-Alchemy/main/Scripts/setup.js"
   ],
   "packs": [
     {
