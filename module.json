@@ -24,8 +24,8 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/hairyscotsman2/13a-artificer/main/module.json",
-  "download": "https://raw.githubusercontent.com/hairyscotsman2/13a-artificer/main/artificer-for-13th-age.zip",
+  "manifest": "https://raw.githubusercontent.com/hairyscotsman2/13a-spirit-of-alchemy/main/module.json",
+  "download": "https://raw.githubusercontent.com/hairyscotsman2/13a-spirit-of-alchemy/main/spirit-of-alchemy-for-13th-age.zip",
   "scripts": [
     "scripts/setup.js"
   ],
