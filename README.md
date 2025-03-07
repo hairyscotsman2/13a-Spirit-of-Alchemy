@@ -1,6 +1,6 @@
-# Artificer (13th Age) Class for the Toolkit13 System
+# Spirit of Alchemy (13th Age) Classes for the Toolkit13 System
 
-This Foundry VTT module adds the Artificer class for 13th Age to the Toolkit13 system. 
+This Foundry VTT module adds the Artificer, Dragonthane, Emotive and Shaman classes from Spirit of Alchemy for 13th Age to the Toolkit13 system. 
 
 ## Installation
 After downloading
