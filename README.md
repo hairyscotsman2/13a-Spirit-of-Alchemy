@@ -16,7 +16,7 @@ Enable the module in the manage modules menu of your world. Restart world
 ## Compatibility
 
 Compatible with Foundry VTT v12 and later.
-Requires Toolkit13 (13th Age compatible) system version 1.30.4 or later.
-Tested with Foundry VTT v11.315 and Toolkit13 version 1.30.4.
+Requires Toolkit13 (13th Age compatible) system version 1.34.0 or later.
+Tested with Foundry VTT v12.331 and Toolkit13 version 1.34.0.
 
 
