@@ -1,10 +1,10 @@
 {
   "id": "spirit-of-alchemy-for-13th-age",
   "title": "Spirit of Alchemy for 13th Age",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "12.331",
+    "verified": "12.331"
   },
   "relationships": {
     "systems": [
@@ -123,6 +123,28 @@
       "label": "Items-Spirit of Alchemy",
       "path": "packs/items-spirit-of-alchemy",
       "type": "Item",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "dragonthane",
+      "label": "Dragonthane",
+      "path": "packs/dragonthane",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage"
+    },
+    {
+      "name": "classes-dragonthane",
+      "label": "Classes-Dragonthane",
+      "path": "packs/classes-dragonthane",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
