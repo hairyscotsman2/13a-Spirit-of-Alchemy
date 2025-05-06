@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "Artificer, Dragonthane, Emotive and Shaman classes for 13th Age.",
+  "description": "Artificer, Dragonthane, Emotive, Juggernaut and Shaman classes for 13th Age.",
   "authors": [
     {
       "name": "Douglas G A Murray",
@@ -134,6 +134,28 @@
       "label": "Dragonthane",
       "path": "packs/dragonthane",
       "type": "Item",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes-dragonthane",
+      "label": "Classes-Dragonthane",
+      "path": "packs/classes-dragonthane",
+      "type": "JournalEntry",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "juggernaut",
+      "label": "Juggernaut",
+      "path": "packs/juggernaut",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -141,9 +163,9 @@
       "system": "archmage"
     },
     {
-      "name": "classes-dragonthane",
-      "label": "Classes-Dragonthane",
-      "path": "packs/classes-dragonthane",
+      "name": "classes-juggernaut",
+      "label": "Classes-Juggernaut",
+      "path": "packs/classes-juggernaut",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
