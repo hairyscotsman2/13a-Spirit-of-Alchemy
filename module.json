@@ -1,7 +1,7 @@
 {
   "id": "spirit-of-alchemy-for-13th-age",
   "title": "Spirit of Alchemy for 13th Age",
-  "version": "1.1.45",
+  "version": "1.1.46",
   "compatibility": {
     "minimum": "12.331",
     "verified": "12.343"
@@ -156,6 +156,28 @@
       "label": "Juggernaut",
       "path": "packs/juggernaut",
       "type": "Item",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes-juggernaut",
+      "label": "Classes-Juggernaut",
+      "path": "packs/classes-juggernaut",
+      "type": "JournalEntry",
+      "system": "archmage",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spellstriker",
+      "label": "Spellstriker",
+      "path": "packs/spellstriker",
+      "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -163,9 +185,9 @@
       "system": "archmage"
     },
     {
-      "name": "classes-juggernaut",
-      "label": "Classes-Juggernaut",
-      "path": "packs/classes-juggernaut",
+      "name": "classes-spellstriker",
+      "label": "Classes-Spellstriker",
+      "path": "packs/classes-spellstriker",
       "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
