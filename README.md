@@ -1,6 +1,6 @@
 # Spirit of Alchemy (13th Age) Classes for the Toolkit13 System
 
-This Foundry VTT module adds the Artificer, Dragonthane, Emotive, Juggernaut and Shaman classes from Spirit of Alchemy for 13th Age to the Toolkit13 system. 
+This Foundry VTT module adds the Artificer, Dragonthane, Emotive, Juggernaut, Shaman and spellstriker classes from Spirit of Alchemy for 13th Age to the Toolkit13 system. 
 
 ## Installation
 After downloading
@@ -18,5 +18,6 @@ Enable the module in the manage modules menu of your world. Restart world
 Compatible with Foundry VTT v12 and later.
 Requires Toolkit13 (13th Age compatible) system version 1.34.0 or later.
 Tested with Foundry VTT v12.331 and Toolkit13 version 1.34.0.
+
 
 
