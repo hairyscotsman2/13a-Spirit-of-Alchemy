@@ -1,7 +1,7 @@
 {
   "id": "spirit-of-alchemy-for-13th-age",
   "title": "Spirit of Alchemy for 13th Age",
-  "version": "1.1.63",
+  "version": "1.1.65",
   "compatibility": {
     "minimum": "12.331",
     "verified": "12.343"
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "<p>Artificer, Dragonthane, Emotive, Juggernaut and Shaman classes for 13th Age.</p>",
+  "description": "<p>Artificer, Dragonthane, Emotive, Juggernaut, Shaman and Spellstriker classes for 13th Age.</p>",
   "authors": [
     {
       "name": "Douglas G A Murray",
@@ -195,6 +195,5 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ],
-  "flags": {}
+  ]
 }
