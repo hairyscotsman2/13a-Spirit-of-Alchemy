@@ -3,6 +3,10 @@
 This Foundry VTT module adds the Artificer, Dragonthane, Emotive, Juggernaut, Shaman and Spellstriker classes from Spirit of Alchemy for 13th Age to the Toolkit13 system. 
 
 ## Installation
+In Foundry go to Add-on Modules
+Click Install Module
+Paste https://raw.githubusercontent.com/hairyscotsman2/13a-spirit-of-alchemy/main/module.json into the Manifest URL field and click enter.
+
 After downloading
 For local installation
 copy and paste the folder (or extracted folder) into modules, restart and enable it in the manage modules menu. Restart world.
