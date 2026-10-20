@@ -1,10 +1,10 @@
 {
   "id": "spirit-of-alchemy-for-13th-age",
   "title": "Spirit of Alchemy for 13th Age",
-  "version": "1.1.79",
+  "version": "1.1.81",
   "compatibility": {
-    "minimum": "12.331",
-    "verified": "12.343"
+    "minimum": "14",
+    "verified": "14.365"
   },
   "relationships": {
     "systems": [
@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "<p>Artificer, Dragonthane, Emotive, Juggernaut, Shaman and Spellstriker classes for 13th Age.</p>",
+  "description": "<p>Artificer, Dragonthane, Emotive, Juggernaut, Shaman, Spellstriker and Witch classes for 13th Age.</p>",
   "authors": [
     {
       "name": "Douglas G A Murray",
@@ -39,7 +39,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "emotive",
@@ -50,7 +51,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "shaman",
@@ -61,7 +63,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "classes-artificer",
@@ -72,7 +75,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "classes-emotive",
@@ -83,7 +87,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "classes-shaman",
@@ -94,7 +99,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "roll-tables-spirit-of-alchemy",
@@ -105,7 +111,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "actors-spirit-of-alchemy",
@@ -116,7 +123,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "items-spirit-of-alchemy",
@@ -127,7 +135,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "dragonthane",
@@ -138,7 +147,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "classes-dragonthane",
@@ -149,7 +159,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "juggernaut",
@@ -160,7 +171,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "classes-juggernaut",
@@ -171,7 +183,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "spellstriker",
@@ -182,7 +195,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "classes-spellstriker",
@@ -193,7 +207,56 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
+    },
+    {
+      "name": "binder",
+      "label": "Binder",
+      "path": "packs/binder",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    },
+    {
+      "name": "classes-binder",
+      "label": "Classes-Binder",
+      "path": "packs/classes-binder",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    },
+    {
+      "name": "witch",
+      "label": "Witch",
+      "path": "packs/witch",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
+    },
+    {
+      "name": "classes-witch",
+      "label": "Classes-Witch",
+      "path": "packs/classes-witch",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "archmage",
+      "flags": {}
     }
   ],
   "flags": {}
