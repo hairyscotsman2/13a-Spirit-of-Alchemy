@@ -1,7 +1,7 @@
 {
   "id": "spirit-of-alchemy-for-13th-age",
   "title": "Spirit of Alchemy for 13th Age",
-  "version": "1.1.81",
+  "version": "1.1.82",
   "compatibility": {
     "minimum": "14",
     "verified": "14.365"
@@ -32,7 +32,7 @@
   "packs": [
     {
       "name": "artificer",
-      "label": "Artificer",
+      "label": "Artificer (2e)",
       "path": "packs/artificer",
       "type": "Item",
       "system": "archmage",
@@ -44,7 +44,7 @@
     },
     {
       "name": "emotive",
-      "label": "Emotive",
+      "label": "Emotive (2e)",
       "path": "packs/emotive",
       "type": "Item",
       "system": "archmage",
@@ -56,7 +56,7 @@
     },
     {
       "name": "shaman",
-      "label": "Shaman",
+      "label": "Shaman (2e)",
       "path": "packs/shaman",
       "type": "Item",
       "system": "archmage",
@@ -140,7 +140,7 @@
     },
     {
       "name": "dragonthane",
-      "label": "Dragonthane",
+      "label": "Dragonthane (2e)",
       "path": "packs/dragonthane",
       "type": "Item",
       "system": "archmage",
@@ -164,7 +164,7 @@
     },
     {
       "name": "juggernaut",
-      "label": "Juggernaut",
+      "label": "Juggernaut (2e)",
       "path": "packs/juggernaut",
       "type": "Item",
       "system": "archmage",
@@ -188,7 +188,7 @@
     },
     {
       "name": "spellstriker",
-      "label": "Spellstriker",
+      "label": "Spellstriker (2e)",
       "path": "packs/spellstriker",
       "type": "Item",
       "system": "archmage",
@@ -212,14 +212,14 @@
     },
     {
       "name": "binder",
-      "label": "Binder",
+      "label": "Binder (2e)",
       "path": "packs/binder",
       "type": "Item",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "archmage",
       "flags": {}
     },
     {
@@ -227,23 +227,23 @@
       "label": "Classes-Binder",
       "path": "packs/classes-binder",
       "type": "JournalEntry",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "archmage",
       "flags": {}
     },
     {
       "name": "witch",
-      "label": "Witch",
+      "label": "Witch (2e)",
       "path": "packs/witch",
       "type": "Item",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "archmage",
       "flags": {}
     },
     {
@@ -251,11 +251,11 @@
       "label": "Classes-Witch",
       "path": "packs/classes-witch",
       "type": "JournalEntry",
+      "system": "archmage",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "archmage",
       "flags": {}
     }
   ],
