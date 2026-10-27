@@ -19,9 +19,9 @@ Import
 Enable the module in the manage modules menu of your world. Restart world
 ## Compatibility
 
-Compatible with Foundry VTT v12 and later.
+Compatible with Foundry VTT v14 and later.
 Requires Toolkit13 (13th Age compatible) system version 1.34.0 or later.
-Tested with Foundry VTT v12.331 and Toolkit13 version 1.34.0.
+Tested with Foundry VTT v14.367 and Toolkit13 version 1.42.0.
 
 
 
